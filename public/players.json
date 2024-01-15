@@ -1,0 +1,82 @@
+[
+    {
+      "id": 1,
+      "name": "Erling Haaland",
+      "club": "Manchester City",
+      "country": "Norway",
+      "price": 100,
+      "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQKII5DeHffbS0TulcaTZA-ABvq20TC2IYu481ynzS7PErPxvm-ahaH5BkKotZU_ojFp_27_kBGG1OL1TU"
+    },
+    {
+      "id": 2,
+      "name": "Lionel Messi",
+      "club": "Inter Miami",
+      "country": "Argentina",
+      "price": 200,
+      "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRdI-Nv-Uy-uBJJkIKQmdWhEFG6oy4lPIoBha2LOaMputUjw5-Ltnn3-SQqhymuDZtcQDaxS0wbUXf2Ko0"
+    },
+    {
+      "id": 3,
+      "name": "Jude Bellingham",
+      "club": "Real Madrid",
+      "country": "England",
+      "price": 300,
+      "image": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcQewE2-ZK1e2wIMVSa8xx9lAymItI2PsgRpmCqpvlEIEUE2oUqxLUMQjJHveTFwuo_k85jrIMFYatEc8Ds"
+    },
+    {
+      "id": 4,
+      "name": "Rodri",
+      "club": "Manchester City",
+      "country": "Spain",
+      "price": 400,
+      "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRPcyITZCfDofQTE2tL5bZsm4i5YO-ijmHuy9vhyNdzzzbBKEQamOrGo_vILZWyLjV5iOPjRM0EGQ7lkAs"
+    },
+    {
+      "id": 5,
+      "name": "Kylian Mbappe",
+      "club": "Paris Saint-Germain",
+      "country": "France",
+      "price": 500,
+      "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcS1rkR2iE3Ll6JebrgXtPEUx-pS5FDsJpCcHjxMtuCmfkthMtmA-DmEJDuQHYaJDSpymfyT9_titN_BbvY"
+    },
+    {
+      "id": 6,
+      "name": "Harry Kaned",
+      "club": "Bayern Munich",
+      "country": "England",
+      "price": 600,
+      "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQjKXrTZb0ip9f2zd4kGgWnwgLpl7AzYFN4HnUAlzdk5wcg5sQ-PBq76T2TQ00DOp_2hndPnifdr5EbssU"
+    },
+    {
+      "id": 7,
+      "name": "Lautaro Martinez",
+      "club": "Inter Milan",
+      "country": "Argentina",
+      "price": 700,
+      "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQOhfOGmY4AMaO8wqSygrSh87BT_5ytc2QDYybQh_LCZaBlel-lse8u7AlEPqh_uJcrNk0-TDcpeXQd-jY"
+    },
+    {
+      "id": 8,
+      "name": "Antoine Griezmann",
+      "club": "Atletico Madrid",
+      "country": "France",
+      "price": 800,
+      "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRju8Aafoldax22Gtkns1tkvvDHrb81JmbNalivICQQiwt50HP2RHGFSHe8UEDG9OU4c_ZMeDwG53W2Y-0"
+    },
+    {
+      "id": 9,
+      "name": "Mohamed Salah",
+      "club": "Liverpool",
+      "country": "Egypt",
+      "price": 900,
+      "image": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTP24lJDEhOl5Sqpmugh5gME56Z4U-LkoxLFMPbz-r39xQtCdhFgjW43EC5hqWFrUcNUDwIQcATE5LQmNY"
+    },
+    {
+      "id": 10,
+      "name": "Serhou Guirassy",
+      "club": "Stuttgart",
+      "country": "Guinea",
+      "price": 1000,
+      "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSVu8oll93APu_fMz25nGQz-0UV839yakMpE035xbVDzyU5Q7cyHNAVE8O_1-06jBAXUZvEuwTLS3rbpcg"
+    }
+  ]
