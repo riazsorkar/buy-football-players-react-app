@@ -2,6 +2,7 @@ import { useState } from 'react';
 import './Players.css';
 import { useEffect } from 'react';
 import SinglePlayer from '../SinglePlayer/SinglePlayer';
+import Cart from '../Cart/Cart';
 
 // import React from 'react';
 
@@ -26,9 +27,7 @@ const Players = () => {
             }
             </div>
 
-            <div className="calculation-container">
-                
-            </div>
+            <Cart></Cart>
             
             
         </div>

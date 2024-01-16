@@ -10,9 +10,3 @@
     display: grid;
     grid-template-columns: 2fr 2fr;
 }
-
-.calculation-container{
-    background-color: rgb(255, 255, 255);
-    border-radius: 20px;
-    margin: 20px;
-}
