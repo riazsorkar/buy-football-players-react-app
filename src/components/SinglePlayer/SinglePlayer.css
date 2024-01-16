@@ -1,0 +1,29 @@
+.players{
+    background-color: #730b60;
+    padding: 25px;
+    margin: 15px;
+    text-align: left;
+    border-radius: 10px;
+}
+.players img{
+    height: 150px;
+    width: 150px;
+    border: none;
+    border-radius: 50%;
+}
+
+.players button{
+    background: fixed royalblue;
+    padding: 10px;
+    width: 100%;
+    text-align: center;
+    font-weight: 700;
+    border: none;
+}
+
+.players button:hover{
+    background: #ffff;
+    border: none;
+    color: black;
+    transition: ease-in 1s none 1s;
+}

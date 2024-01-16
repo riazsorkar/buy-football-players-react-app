@@ -13,7 +13,8 @@ const Players = () => {
         .then(data => setPlayer(data))
     },[])
     return (
-        <div>
+        <div className='container'>
+            <div className="players-container">
             {
                 Players.map(player => <SinglePlayer 
 
@@ -23,6 +24,12 @@ const Players = () => {
                 ></SinglePlayer>
 )
             }
+            </div>
+
+            <div className="calculation-container">
+                
+            </div>
+            
             
         </div>
     );
