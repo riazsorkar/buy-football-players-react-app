@@ -1,6 +1,11 @@
 import './Cart.css';
 
-const Cart = () => {
+const Cart = (a) => {
+
+    console.log(a.image)
+    console.log(a.name)
+    console.log(a.country)
+    console.log(a.price)
     return (
         <div>
 

@@ -1,6 +1,5 @@
-import { useState } from 'react';
 import './Players.css';
-import { useEffect } from 'react';
+import { useEffect,  useState } from 'react';
 import SinglePlayer from '../SinglePlayer/SinglePlayer';
 import Cart from '../Cart/Cart';
 
